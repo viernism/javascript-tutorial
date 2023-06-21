@@ -45,7 +45,7 @@ console.log(person); // Output: { firstName: 'John', lastName: 'Pork', age: 35, 
 person.age = 31; // modify the value of an existing property
 person.gender = 'Pig Hybrid'; // add a new property
 
-console.log(person); // Output: { firstName: 'John', lastName: 'Pork', age: 35, city: 'London', gender: 'Pig Hybrid' }
+console.log(person); // Output: { firstName: 'John', lastName: 'Pork', age: 31, city: 'London', gender: 'Pig Hybrid' }
 ```
 
 wait how can we access a single value only? we got you
