@@ -71,7 +71,7 @@ and theres this old ways the output is on HTMLCollection but you cannot run arra
 <p class="item">test 3</p>
 ```
 
-the old way is **'getElementbyClass'
+the old way is **'getElementbyClass'**
 
 ```js
 const elements = document.getElementsByClassName('item');
